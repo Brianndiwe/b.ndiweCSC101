@@ -1,5 +1,5 @@
 fn main() {
-	// the first letter of each parameter would be used to represent it
+	// the first letter of each parameter would be used to represent each of them
 	let p:f64 = 210_000.0;
 	let r:f64 = 5.0;
 	let n:f64 = 3.0;
